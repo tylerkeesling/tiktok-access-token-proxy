@@ -1,0 +1,13 @@
+{
+  "name": "tiktok-access-token-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "node-fetch": "^3.3.0"
+  }
+}
